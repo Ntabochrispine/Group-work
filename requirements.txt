@@ -1,1 +1,10 @@
-we are required to create a notes book application that allows users to create, edit, and delete notes. The application should have a user-friendly interface. Additionally, we need to ensure that the application is secure and that user data is protected.To create a notes book application with the specified features, we will need to use a combination of front-end and back-end technologies. For the front-end, we can use html, css, and bootstrap to build a responsive and interactive user interface. For the back-end, we can use php to handle server-side logic and manage data storage. We will also need a database to store user notes and user information. A popular choice for this would be MySql, which is a relational database that allows for structured data modeling and easy scalability.
+# we are required to create a notes book application that allows users to create, edit, and delete notes.
+# The application should have a user-friendly interface.
+# Additionally, we need to ensure that the application is secure and that user data is protected.
+# To create a notes book application with the specified features,
+# we will need to use a combination of front-end and back-end technologies. 
+# For the front-end, we can use html, css, and bootstrap to build a responsive and interactive user interface. 
+# For the back-end, we can use php to handle server-side logic and manage data storage. 
+# We will also need a database to store user notes and user information. 
+# A popular choice for this would be MySql, which is a relational database that allows for structured data modeling 
+# and easy scalability.

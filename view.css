@@ -1,0 +1,24 @@
+.note-view,
+.missing-note {
+    background: var(--card);
+    border: 1px solid var(--line);
+    border-radius: 12px;
+    padding: 2rem;
+}
+
+.note-meta {
+    color: var(--muted);
+    font-size: 0.95rem;
+}
+
+.note-body {
+    white-space: pre-wrap;
+    line-height: 1.7;
+    font-size: 1.05rem;
+}
+
+.missing-note {
+    text-align: center;
+}
+
+

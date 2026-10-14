@@ -8,3 +8,4 @@
 # We will also need a database to store user notes and user information. 
 # A popular choice for this would be MySql, which is a relational database that allows for structured data modeling 
 # and easy scalability.
+https://chatgpt.com/share/6acf3ccb-5aac-83e9-ae70-b09aae9b1f5f
